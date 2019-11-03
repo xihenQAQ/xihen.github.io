@@ -6,7 +6,7 @@ const ap = new APlayer({
     {
       name: "红昭愿",
       artist: '音阙诗听',
-      url: 'http://isure.stream.qqmusic.qq.com/C100002IWBxU47dwlj.m4a?fromtag=32',
+      url: 'http://music.163.com/song/media/outer/url?id=1396568325.mp3',
       cover: '',
     },
   ]
